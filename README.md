@@ -29,7 +29,7 @@
 
 ---
 ### 🐱My Github stats:
-![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateeksahu-in&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
 
 <!--START_SECTION:waka-->
