@@ -8,11 +8,11 @@
 <a href="https://twitter.com/prateeksahu_in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prateeksahu_in" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateeksahu" height="20" width="20" /></a>&nbsp;
 </p>
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
+- 🏦 I'm a 4rd Year undergraduate SDBCT, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.cpp```,```.java```,``` .py```, ```.sql```
 - 🌱 I’m currently learning Python and Data Science
-- 💬 Talk to me about android, python (both of these are not any kind of insect or animals) and silicon valley
+- 💬 Talk to me about c++,android, python
 - 😄 Pronouns: He/Him
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
