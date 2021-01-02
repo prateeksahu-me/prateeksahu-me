@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Python and Data Science
 - 💬 Talk to me about c++,android, python
 - 😄 Pronouns: He/Him
-<p align="center">
+<p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
