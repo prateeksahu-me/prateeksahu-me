@@ -8,7 +8,7 @@
 </p>
 ### 🤵 About Me:
 
-- 🏦 I'm a 4rd Year undergraduate SDBCT, Indore.
+- 🏦 I'm a 4rd Year undergraduate from SDBCT, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.cpp```,```.java```,``` .py```, ```.sql```
 - 🌱 I’m currently learning Python and Data Science
