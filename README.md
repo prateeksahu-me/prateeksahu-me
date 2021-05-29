@@ -12,7 +12,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ``` .py```, ```.sql```
 - 🌱 I’m currently learning Python and Data Science
-- 💬 Talk to me about c++, python, AL/ML,Data Science
+- 💬 Talk to me about c++, python, AI/ML,Data Science
 - 😄 Pronouns: He/Him
 
 
