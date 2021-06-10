@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/prateek-sahu-796993145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateeksahu" height="20" width="20" /></a>&nbsp;
 </p>
 ### 🤵 About Me:
-
+- 🏦 Working in a Product based MNC.
 - 🏦 I'm a 4rd Year undergraduate from SDBCT, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ``` .py```, ```.sql```
