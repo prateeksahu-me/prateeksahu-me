@@ -8,11 +8,11 @@
 </p>
 ### 🤵 About Me:
 - 🏦 Working in a Product based MNC
-- 🏦 I'm a 4rd Year undergraduate from SDBCT, Indore.
+- 🏦 I'm CS Graduate from Univercity of Technology Madhya Pradesh, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ``` .HTML```,``` .CSS```,``` .JS```, ```.sql```
-- 🌱 I’m currently learning Python and Data Science
-- 💬 Talk to me about Web development, python, AI/ML,Data Science
+- 🌱 I’m currently learning Web development
+- 💬 Talk to me about HTML,CSS,JS,MySql
 - 😄 Pronouns: He/Him
 
 
