@@ -10,9 +10,9 @@
 - 🏦 Working in a Product based MNC
 - 🏦 I'm a 4rd Year undergraduate from SDBCT, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ``` .py```, ```.sql```
+- 🤔 I use daily ``` .HTML```,``` .CSS```,``` .JS```, ```.sql```
 - 🌱 I’m currently learning Python and Data Science
-- 💬 Talk to me about c++, python, AI/ML,Data Science
+- 💬 Talk to me about Web development, python, AI/ML,Data Science
 - 😄 Pronouns: He/Him
 
 
