@@ -10,10 +10,10 @@
 - 🏦 Working in a Product based MNC
 - 🏦 I'm CS Graduate from Univercity of Technology Madhya Pradesh, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.Java```, ``` .HTML```,``` .CSS```,``` .JS```
-- 🌱 I’m currently learning DSA and MERN stack
-- 💬 Talk to me about HTML,CSS,JS,Java
-- 😄 Pronouns: He/Him
+- 🤔 I use daily ```.Java```, ``` .HTML```,``` .CSS```,``` .JS```<br>
+- 🌱 I’m currently learning DSA and MERN stack<br>
+- 💬 Talk to me about HTML,CSS,JS,Java<br>
+- 😄 Pronouns: He/Him<br>
 
 
 ---
