@@ -1,4 +1,4 @@
-Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> Welcome to my profile!
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> Welcome to my profile!
 
 <br>
 🤵 About Me:<br>
