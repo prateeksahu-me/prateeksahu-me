@@ -10,22 +10,7 @@
 - 🏦 I'm a CS Graduate from the University of Technology Madhya Pradesh, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.Java```, ``` .HTML```,``` .CSS```,``` .JS```<br>
-- 🌱 I’m currently learning DSA and MERN stack<br>
-- 💬 Talk to me about HTML, CSS,JS, Java<br>
+- 🌱 I’m currently learning Automation Testing
+- 💬 Talk to me about Quality Assurance, Automation Testing<br>
 - 😄 Pronouns: He/Him<br>
 
-----
-### 🐱My Github stats:
-![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateeksahu-me&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-
-<!--START_SECTION:waka-->
-
-📅 **I'm Most Productive on Sunday** 
-
-**I'm a Night 🦉** 
-
-<!--END_SECTION:waka-->
-
----
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
