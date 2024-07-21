@@ -1,16 +1,15 @@
-# # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> Welcome to my profile!
+Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> Welcome to my profile!
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <p align="left">
 <a href="https://twitter.com/prateeksahu_me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prateeksahu_in" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/prateek-sahu-796993145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateeksahu" height="20" width="20" /></a>&nbsp;
 </p>
-### 🤵 About Me:
-- 🏦 Working in a Product based MNC as Quality Engineer
-- 🏦 I'm a CS Graduate from the University of Technology Madhya Pradesh, Indore.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br>
+🤵 About Me:<br>
+- 🏦 Working in a Product MNC as a Quality Engineer<br>
 - 🤔 I use daily ```.Java```, ``` .HTML```,``` .CSS```,``` .JS```<br>
-- 🌱 I’m currently learning Automation Testing
+- 🌱 I’m currently learning Automation Testing<br>
 - 💬 Talk to me about Quality Assurance, Automation Testing<br>
 - 😄 Pronouns: He/Him<br>
 
