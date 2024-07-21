@@ -6,12 +6,12 @@
 <a href="https://linkedin.com/in/prateek-sahu-796993145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateeksahu" height="20" width="20" /></a>&nbsp;
 </p>
 ### 🤵 About Me:
-- 🏦 Working in a Product based MNC
-- 🏦 I'm CS Graduate from Univercity of Technology Madhya Pradesh, Indore.
+- 🏦 Working in a Product based MNC as Quality Engineer
+- 🏦 I'm a CS Graduate from the University of Technology Madhya Pradesh, Indore.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.Java```, ``` .HTML```,``` .CSS```,``` .JS```<br>
 - 🌱 I’m currently learning DSA and MERN stack<br>
-- 💬 Talk to me about HTML,CSS,JS,Java<br>
+- 💬 Talk to me about HTML, CSS,JS, Java<br>
 - 😄 Pronouns: He/Him<br>
 
 ----
