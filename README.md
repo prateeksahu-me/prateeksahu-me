@@ -2,7 +2,7 @@
 
 <br>
 🤵 About Me:<br>
-- 🏦 Working in a Product MNC as a Quality Engineer<br>
+- 🏦 Working in a Product MNC as a Software Quality Engineer<br>
 - 🤔 I use daily ```.Java```, ``` .HTML```,``` .CSS```,``` .JS```<br>
 - 🌱 I’m currently learning Automation Testing<br>
 - 💬 Talk to me about Quality Assurance, Automation Testing<br>
