@@ -5,6 +5,6 @@
 - 🏦 Software Engineer<br>
 - 🤔 I use daily ```.Java```, ``` .HTML```,``` .CSS```,``` .JS```<br>
 - 🌱 I’m currently learning Automation Testing<br>
-- 💬 Talk to me about Quality Assurance, Automation Testing<br>
+- 💬 Talk to me about Quality Assurance,Test Planning,Test Case Writing and Automation Testing<br>
 - 😄 Pronouns: He/Him<br>
 
